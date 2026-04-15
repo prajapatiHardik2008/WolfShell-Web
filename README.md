@@ -13,7 +13,7 @@ A lightweight, interactive web-based terminal simulator built using HTML, CSS, a
 * **HTML5:** Structure and content.
 * **CSS3:** Custom styling, animations, and terminal aesthetics.
 * **JavaScript:** Core logic, command processing, and DOM manipulation.
-
+.
 ## 📂 Available Commands
 | Command | Description |
 | :--- | :--- |
